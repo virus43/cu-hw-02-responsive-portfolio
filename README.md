@@ -1,5 +1,4 @@
-# Homework 2 - Building responsive bootstrap webpages
-
+# Responsive Portfolio
 This is a responsive portfolio website build using bootstrap
 
 The website contains 3 webpages:
