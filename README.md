@@ -1,7 +1,7 @@
 # Responsive Portfolio
 This is a responsive portfolio website build using bootstrap
 
-[Portfolio Link](https://virus43.github.io/cu-hw-02-responsive-portfolio/)
+[Portfolio Link](https://virus43.github.io/cu-hw-02-responsive-portfolio/){:target="_blank"}
 
 ## Built With
 
